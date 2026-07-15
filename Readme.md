@@ -98,3 +98,31 @@ Hola
 S'han utilitzat atributs privats per aplicar el principi d'encapsulació i controlar l'accés a les dades mitjançant getters.
 
 L'exercici diferencia una implementació tradicional (`NoGenericMethods`) d'una implementació basada en Generics (`GenericMethods`), demostrant que un únic mètode genèric pot treballar amb diferents tipus d'objectes sense necessitat de crear múltiples versions del mateix mètode.
+
+## 📁 Estructura del projecte
+
+```text
+.
+├── README.md
+├── pom.xml
+├── src
+│   ├── main
+│   │   ├── java
+│   │   │   └── generics
+│   │   │       ├── GenericMethods.java
+│   │   │       ├── Main.java
+│   │   │       ├── NoGenericMethods.java
+│   │   │       └── Person.java
+│   │   └── resources
+│   └── test
+│       └── java
+└── target
+    ├── classes
+    │   └── generics
+    │       ├── GenericMethods.class
+    │       ├── Main.class
+    │       ├── NoGenericMethods.class
+    │       └── Person.class
+    └── generated-sources
+        └── annotations
+```

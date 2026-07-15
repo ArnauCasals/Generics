@@ -1,9 +1,9 @@
 package generics;
 
 public class NoGenericMethods {
-    private String element1;
-    private String element2;
-    private String element3;
+    private final String element1;
+    private final String element2;
+    private final String element3;
 
     public NoGenericMethods(String element1, String element2, String element3) {
         this.element1 = element1;
