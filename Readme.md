@@ -108,7 +108,7 @@ L'exercici diferencia una implementació tradicional (`NoGenericMethods`) d'una 
 ├── src
 │   ├── main
 │   │   ├── java
-│   │   │   └── generics
+│   │   │   └── Level1
 │   │   │       ├── GenericMethods.java
 │   │   │       ├── Main.java
 │   │   │       ├── NoGenericMethods.java
@@ -118,7 +118,7 @@ L'exercici diferencia una implementació tradicional (`NoGenericMethods`) d'una 
 │       └── java
 └── target
     ├── classes
-    │   └── generics
+    │   └── Level1
     │       ├── GenericMethods.class
     │       ├── Main.class
     │       ├── NoGenericMethods.class

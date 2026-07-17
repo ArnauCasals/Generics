@@ -1,4 +1,4 @@
-package generics;
+package Level1.exercise2;
 
 public class GenericMethods {
     public static <T, U, V> void printElements(T element1, U element2, V element3) {

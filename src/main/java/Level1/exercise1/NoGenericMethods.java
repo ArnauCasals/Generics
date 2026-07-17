@@ -1,4 +1,4 @@
-package generics;
+package Level1.exercise1;
 
 public class NoGenericMethods {
     private final String element1;

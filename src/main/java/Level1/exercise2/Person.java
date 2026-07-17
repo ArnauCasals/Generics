@@ -1,4 +1,4 @@
-package generics;
+package Level1.exercise2;
 
 public class Person {
 
